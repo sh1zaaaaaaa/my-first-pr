@@ -82,7 +82,9 @@ git switch -c fix/pr-definition
 ```
 
 2. Edit this file and address the two TODO items in two separate commits.
-
+   I have definitely make changes here. The reason it's called a "Pull Request"
+   is because it represents a request from one contributor to another to "pull"
+   or merge a set of changes into a target branch.
 ```bash
 git commit -am "Add forks to the PR definition"
 git commit -am "Give correct reason to why PRs are named that"
